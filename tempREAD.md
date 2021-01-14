@@ -73,7 +73,7 @@ _General-purpose machine learning and deep learning frameworks._
 	pip install scikit-learn
 	```
 - [Conda](https://anaconda.org/conda-forge/scikit-learn) (📥 6.3M · ⏱️ 22.12.2020):
-	```
+	```py
 	conda install -c conda-forge scikit-learn
 	import pandas as pd
 	```
