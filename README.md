@@ -4,6 +4,10 @@ A humble practice for preparation
 
 - [Main GitRepo](https://github.com/eriklindernoren/ML-From-Scratch)
 
+---
+
+- See the repo in [nbviewer](https://nbviewer.jupyter.org/github/msank00/ml_algo_from_scratch/tree/master/)
+
 ## Supervised
 
 - [logistic regression](https://github.com/martinpella/logistic-reg/blob/master/logistic_reg.ipynb)
